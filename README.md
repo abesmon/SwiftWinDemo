@@ -1,7 +1,7 @@
 # SwiftWinDemo
 
 ## Intro
-This project made to show how to start making progrrams with Swift on windows. 
+This project made to show how to start making programs with Swift on windows. 
 All Examples was tested on Win10 virtual machine, so any other environments can not work. 
 Feel free to create issues here, so we can know about available environments
 
