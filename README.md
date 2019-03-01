@@ -62,7 +62,7 @@ To build your first program, go to `OneFileExample` folder and run `build.bat` f
 
 ## VS Command Prompt
 I found that for me easier to work with default windows CMD, also i'm not using Windows SDK in my projects, so i run into no problems.
-BUT! If you want to use Windows SDK (and if you want to feel like a pro ;)) you need to run commands via VS Command Prompt. Also, some env vbariables, like, `%UniversalCRTSdkDir%` avaliable only there.
+BUT! If you want to use Windows SDK (and if you want to feel like a pro ;)) you need to run commands via VS Command Prompt. Also, some env variables, like, `%UniversalCRTSdkDir%` avaliable only there.
 Seems that easiest way to find where prompt located on your machine is to do this:
 `Start (Win key)` > type `Prompt` > run it :)
 
